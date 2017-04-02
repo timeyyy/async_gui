@@ -22,7 +22,7 @@ else:
 
 
 setup(
-    name='async_gui',
+    name='uncrumpled_async_gui',
     packages=[
         'async_gui',
         'async_gui.toolkits',
